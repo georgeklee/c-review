@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 /********************************************
- * King - Chapter 3, ex 5
+ * Solution to King - Chapter 3, ex 5
+ *
+ * George Lee 10/1/2016
+ *
  * Output:
  * Enter item number:23
  * Enter unit price:23.56
